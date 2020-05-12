@@ -1,1 +1,1 @@
-# Hopkins-Data-Sci-Coursera
+# Hopkins-R-Programming-Coursera
